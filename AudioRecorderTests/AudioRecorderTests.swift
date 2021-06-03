@@ -2,8 +2,8 @@
 //  AudioRecorderTests.swift
 //  AudioRecorderTests
 //
-//  Created by MuhammadUsman on 19/09/2018.
-//  Copyright © 2018 MuhammadUsman. All rights reserved.
+//  Created by Ahmad Mustafa on 19/09/2018.
+//  Copyright © 2018 Ahmad Mustafa. All rights reserved.
 //
 
 import XCTest
