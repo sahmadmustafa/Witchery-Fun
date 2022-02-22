@@ -6,7 +6,6 @@
 //
 
 import UIKit
-//import IGLottieProgress
 
 class ViewController: UIViewController {
 

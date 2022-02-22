@@ -1,7 +1,4 @@
 //
-//  PlaySoundViewController.swift
-//  AudioRecorder
-//
 //  Created by Ahmad Mustafa on 07/04/2019.
 //  Copyright © 2019 Ahmad. All rights reserved.
 //
